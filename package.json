@@ -2,7 +2,7 @@
   "name": "memory-click",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://runexz.github.io/memory-click/",
+  "homepage": "https://runexz.github.io/memory-click",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
