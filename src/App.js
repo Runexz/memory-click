@@ -56,7 +56,7 @@ class App extends Component {
         cardImages: resetCardsCopy,
         currentScore: 0,
       });
-      
+
     }
   }
 
