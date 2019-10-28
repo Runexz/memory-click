@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://runexz.github.io/memory-click",
+  "engines": {
+    "node": "12.13.0"
+  },
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
