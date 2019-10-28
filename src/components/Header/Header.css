@@ -1,1 +1,6 @@
-/* Header.css */
+.jumbotron {
+    background-image: url("/public/image/memoryIndex.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
