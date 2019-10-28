@@ -12,8 +12,8 @@ const Header = props => (
     </nav>
     <div className="jumbotron text-center">
       <div className="container">
-        <h1 className="display-4">Memory Click Game</h1>
-        <p className="lead">Click an image but dont click it again or you restart!</p>
+        <h1>Memory Click Game</h1>
+        <p className="jumbop">Click an image but dont click it again or you restart!</p>
       </div>
     </div>
   </div>
